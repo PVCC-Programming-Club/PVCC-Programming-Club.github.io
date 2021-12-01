@@ -2,9 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://pvcc.codes/categories.html</loc>
+    <loc>http://pvcc.codes/posts.html</loc>
+    <lastmod>2021-12-01T12:15:26-05:00</lastmod>
   </url><url>
     <loc>http://pvcc.codes/</loc>
+    <lastmod>2021-12-01T12:15:26-05:00</lastmod>
+  </url><url>
+    <loc>http://pvcc.codes/posts/welcome.html</loc>
+    <lastmod>2021-12-01T12:15:26-05:00</lastmod>
+  </url><url>
+    <loc>http://pvcc.codes/projects.html</loc>
+    <lastmod>2021-12-01T10:17:30-05:00</lastmod>
+  </url><url>
+    <loc>http://pvcc.codes/projects/website.html</loc>
+    <lastmod>2021-12-01T10:17:30-05:00</lastmod>
+  </url><url>
+    <loc>http://pvcc.codes/events.html</loc>
+    <lastmod>2021-12-01T10:17:26-05:00</lastmod>
+  </url><url>
+    <loc>http://pvcc.codes/events/something.html</loc>
+    <lastmod>2021-12-01T10:17:26-05:00</lastmod>
+  </url><url>
+    <loc>http://pvcc.codes/posts/hello.html</loc>
+    <lastmod>2021-12-01T10:17:11-05:00</lastmod>
+  </url><url>
+    <loc>http://pvcc.codes/categories.html</loc>
   </url><url>
     <loc>http://pvcc.codes/tags.html</loc>
   </url>
