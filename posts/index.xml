@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on PVCC Codes</title>
-    <link>http://pvcc.codes/posts.html</link>
+    <link>https://pvcc-programming-club.github.io/posts.html</link>
     <description>Recent content in Posts on PVCC Codes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 12:15:26 -0500</lastBuildDate><atom:link href="http://pvcc.codes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 12:15:26 -0500</lastBuildDate><atom:link href="https://pvcc-programming-club.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome!</title>
-      <link>http://pvcc.codes/posts/welcome.html</link>
+      <link>https://pvcc-programming-club.github.io/posts/welcome.html</link>
       <pubDate>Wed, 01 Dec 2021 12:15:26 -0500</pubDate>
       
-      <guid>http://pvcc.codes/posts/welcome.html</guid>
+      <guid>https://pvcc-programming-club.github.io/posts/welcome.html</guid>
       <description>This is the beginnings of the PVCC Programming club website. No idea what we&amp;rsquo;re gonna put on this site but it should be useful pretty soon.</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>http://pvcc.codes/posts/hello.html</link>
+      <link>https://pvcc-programming-club.github.io/posts/hello.html</link>
       <pubDate>Wed, 01 Dec 2021 10:17:11 -0500</pubDate>
       
-      <guid>http://pvcc.codes/posts/hello.html</guid>
+      <guid>https://pvcc-programming-club.github.io/posts/hello.html</guid>
       <description>Hello world</description>
     </item>
     
