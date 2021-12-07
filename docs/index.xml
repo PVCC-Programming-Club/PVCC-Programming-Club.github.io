@@ -6,7 +6,16 @@
     <description>Recent content on PVCC Codes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 12:15:26 -0500</lastBuildDate><atom:link href="https://pvcc-programming-club.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 16:19:44 -0500</lastBuildDate><atom:link href="https://pvcc-programming-club.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trip</title>
+      <link>https://pvcc-programming-club.github.io/events/trip.html</link>
+      <pubDate>Tue, 07 Dec 2021 16:19:44 -0500</pubDate>
+      
+      <guid>https://pvcc-programming-club.github.io/events/trip.html</guid>
+      <description>We have a trip coming soon Maybe</description>
+    </item>
+    
     <item>
       <title>Welcome!</title>
       <link>https://pvcc-programming-club.github.io/posts/welcome.html</link>

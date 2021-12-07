@@ -1,0 +1,27 @@
+baseURL = 'https://pvcc-programming-club.github.io/'
+languageCode = 'en-us'
+title = 'PVCC Codes'
+uglyurls = true
+publishDir="docs"
+[params]
+    author = 'PVCC Programming Club'
+    summaryTruncateLength = 150
+    truncateFlag = "--!!TRUNCATED!!--"
+
+[menu]
+[[menu.main]]
+    name = 'About'
+    url = '#about'
+    weight = 1
+[[menu.main]]
+    name = 'Events'
+    url = '#events'
+    weight = 2
+[[menu.main]]
+    name = 'Posts'
+    url = '#posts'
+    weight = 3
+[[menu.main]]
+    name = 'Projects'
+    url = '#projects'
+    weight = 4
